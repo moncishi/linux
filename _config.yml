@@ -108,7 +108,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/moncishi/linux.git #你的仓库地址
+  repository: https://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@github.com/moncishi/linux.git #你的仓库地址
   branch: main
 #  repo: gryphon@121.37.172.84:/home/gryphon/repo/hexo_static.git
 #  branch: master
